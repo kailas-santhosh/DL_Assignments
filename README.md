@@ -47,10 +47,10 @@ Datasets are maintained centrally to avoid duplication across assignment directo
 
 | Dataset | File | Used In |
 |---|---|---|
-| Dataset 1 | [Data_1.zip](Data_1.zip) | Assignments 1 and 2 |
-| Dataset 2 | [Data_2.zip](Data_2.zip) | Assignments 3 and 4 |
-| Dataset 3 | [Data_3.zip](Data_3.zip) | Assignment 5 |
-| Dataset 4 | [Data_4.zip](Data_4.zip) | Assignment 6 |
+| Dataset 1 | [Data_1.zip](Datasets/Data_1.zip) | Assignments 1 and 2 |
+| Dataset 2 | [Data_2.zip](Datasets/Data_2.zip) | Assignments 3 and 4 |
+| Dataset 3 | [Data_3.zip](Datasets/Data_3.zip) | Assignment 5 |
+| Dataset 4 | [Data_4.zip](Datasets/Data_4.zip) | Assignment 6 |
 
 ## Dataset Details
 
