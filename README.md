@@ -30,9 +30,9 @@ Deep_Learning/
 |---|---|---|---|
 | Assignment 1 | [Add description] | [Code](Assignment_1/Code/) | [PDF](Assignment_1/Problem_Statement.pdf) |
 | Assignment 2 | [Add description] | [Code](Assignment_2/Code/) | [PDF](Assignment_2/Problem_Statement.pdf) |
-| Assignment 3 | [Add description] | [Code](Assignment_3/Code/) | [PDF](Assignment_3/Problem_statement.pdf) |
-| Assignment 4 | [Add description] | [Code](Assignment_4/Code/) | [PDF](Assignment_4/Problem_statement.pdf) |
-| Assignment 5 | [Add description] | [Code](Assignment_5/Code/) | [PDF](Assignment_5/Probelm_Statement.pdf) |
+| Assignment 3 | [Add description] | [Code](Assignment_3/Code/) | [PDF](Assignment_3/Problem_Statement.pdf) |
+| Assignment 4 | [Add description] | [Code](Assignment_4/Code/) | [PDF](Assignment_4/Problem_Statement.pdf) |
+| Assignment 5 | [Add description] | [Code](Assignment_5/Code/) | [PDF](Assignment_5/Problem_Statement.pdf) |
 | Assignment 6 | [Add description] | [Code](Assignment_6/Code/) | [PDF](Assignment_6/Problem_Statement.pdf) |
 
 For detailed explanations, implementation details, dependencies, and execution instructions, refer to the README inside each assignment directory.
